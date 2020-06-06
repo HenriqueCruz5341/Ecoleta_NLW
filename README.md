@@ -5,7 +5,7 @@ Durante a Next Level Week foi desenvolvido uma aplicação completa com versão 
 ## Interface WEB (Preview, zoom em 50% para poder ver a aplicação melhor)
 
 <p>
-  <img src="web.jpeg" alt="accessibility text">
+  <img src="web.png" alt="accessibility text">
 </p>
 
 ## Interface Mobile (Preview)
